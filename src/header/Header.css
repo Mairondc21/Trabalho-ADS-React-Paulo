@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('https://siteweb.heypaulin.repl.co/P7Eventos.png');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
